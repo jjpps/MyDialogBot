@@ -1,6 +1,6 @@
 //
 var apiai = require('apiai');
-var app = apiai("85c44e1a5f374b8fa7cde6bc14d17023");
+var app = apiai("YOUR KEY");
 
 
 // Function which returns speech from api.ai
