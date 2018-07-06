@@ -22,7 +22,7 @@ https://chatbotslife.com/custom-api-ai-chatbot-using-botui-58d673155c7d
 
 ## Deploy
 
--Em procresso
+-https://mydialogbot-br.herokuapp.com
 
 
 ## Criado

@@ -21,5 +21,5 @@ var getRes = function (query) {
     return responseFromAPI;
 };
 // test the command :
-getRes('Hello').then(function (res) { console.log(res) });
+//getRes('Hello').then(function (res) { console.log(res) });
 module.exports = { getRes }
